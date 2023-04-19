@@ -1,5 +1,5 @@
 # c#-unity-vr-scripts
-Includes all the c# code that I used for unity VR projects which I learned and developed in UCLA MSAUD program 2022-2023.
+Includes the c# scripts that I write for unity VR projects which I learned and developed in UCLA MSAUD program 2022-2023.
 
 **Do not copy the code in these projects directly. This repository is here for my personal reference and to showcase my development in programming over time.
 
