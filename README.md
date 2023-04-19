@@ -3,7 +3,7 @@ Includes the c# scripts that I write for unity VR projects which I learned and d
 
 **Do not copy the code in these projects directly. This repository is here for my personal reference and to showcase my development in programming over time.
 
-Several of these scripts have frameworks created by Laure Michelon, the lecturer at UCLA IDEAS Campus.
+Several of these scripts have frameworks created by Laure Michelon, the Lecturer at UCLA.
 https://github.com/laure-m
 
 Several of these scripts have frameworks from Scrnalt's project
