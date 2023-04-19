@@ -10,11 +10,6 @@ public class StartVRButton : MonoBehaviour
 
     [SerializeField]
     private Button startVRButton;
-
-
-
-
-
     private void Start()
     {
         startVRButton.onClick.AddListener(() =>
